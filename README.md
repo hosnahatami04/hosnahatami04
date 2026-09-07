@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hosna Hatami — AI Engineer
 
-<!--
-**hosnahatami04/hosnahatami04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LLM & NLP systems for production — retrieval, grounding, and the evaluation
+that tells you when a system is wrong.
 
-Here are some ideas to get you started:
+📫 hosnahatami04@gmail.com · [LinkedIn](https://linkedin.com/in/hosna-hatami)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected work**
+| Project | What it demonstrates |
+|---|---|
+| [financial-rag-qa](https://github.com/hosnahatami04/financial-rag-qa) | RAG with a measured evaluation harness — 61 labelled questions, honest failure analysis |
+| [mammography-inference-api](https://github.com/hosnahatami04/mammography-inference-api) | Production model serving — Docker, rate limiting, privacy-by-design |
+| [mammography-birads-training](https://github.com/hosnahatami04/mammography-birads-training) | Training pipeline — patient-level cross-validation |
+| [verifiable-federated-learning](https://github.com/hosnahatami04/verifiable-federated-learning) | Federated learning with zero-knowledge proofs |
