@@ -2,7 +2,7 @@
 
 AI/ML engineer — I work on LLM, NLP, and ML systems, mostly retrieval and evaluation.
 
-What I keep coming back to is *how do you know it actually works?* So most of my projects come with real evaluation — not just a demo that looks good on the happy path. Everything runs locally, no paid APIs.
+What I keep coming back to is *how do you know it actually works?* So most of my projects come with real evaluation — not just a demo that looks good on the happy path.
 
 ---
 
