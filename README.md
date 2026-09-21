@@ -1,14 +1,26 @@
-### Hosna Hatami — AI Engineer
+# Hosna Hatami
 
-LLM & NLP systems for production — retrieval, grounding, and the evaluation
-that tells you when a system is wrong.
+AI/ML engineer — I work on LLM, NLP, and ML systems, mostly retrieval and evaluation.
 
-📫 hosnahatami04@gmail.com · [LinkedIn](https://linkedin.com/in/hosna-hatami)
+What I keep coming back to is *how do you know it actually works?* So most of my projects come with real evaluation — not just a demo that looks good on the happy path. Everything runs locally, no paid APIs.
 
-**Selected work**
-| Project | What it demonstrates |
-|---|---|
-| [financial-rag-qa](https://github.com/hosnahatami04/financial-rag-qa) | RAG with a measured evaluation harness — 61 labelled questions, honest failure analysis |
-| [mammography-inference-api](https://github.com/hosnahatami04/mammography-inference-api) | Production model serving — Docker, rate limiting, privacy-by-design |
-| [mammography-birads-training](https://github.com/hosnahatami04/mammography-birads-training) | Training pipeline — patient-level cross-validation |
-| [verifiable-federated-learning](https://github.com/hosnahatami04/verifiable-federated-learning) | Federated learning with zero-knowledge proofs |
+---
+
+## Recent projects
+
+**[agentic-task-runner](https://github.com/hosnahatami04/agentic-task-runner)**
+ReAct agent from scratch + a fault-injection harness that breaks its tools on purpose. Tracks success rate, recovery, hallucination, and correct refusal.
+
+**[technical-docs-rag](https://github.com/hosnahatami04/technical-docs-rag)**
+Hybrid retrieval (BM25 + dense + RRF) over PostgreSQL docs with grounding and answerability gates. 70 hand-labeled test questions, including 15 unanswerable ones.
+
+**[multimodal-image-search](https://github.com/hosnahatami04/multimodal-image-search)**
+CLIP-based image search + BLIP visual QA, evaluated on Flickr8k with hard negatives. Runs on CPU.
+
+---
+
+Python · PyTorch · Transformers · Ollama · FastAPI · Docker · pytest · GitHub Actions
+
+---
+
+✉️ hosnahatami04@gmail.com · [LinkedIn](https://www.linkedin.com/in/hosna-hatami)
