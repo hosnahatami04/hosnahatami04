@@ -6,7 +6,7 @@ What I keep coming back to is *how do you know it actually works?* So most of my
 
 ---
 
-## Recent projects
+## Top projects
 
 **[agentic-task-runner](https://github.com/hosnahatami04/agentic-task-runner)**
 ReAct agent from scratch + a fault-injection harness that breaks its tools on purpose. Tracks success rate, recovery, hallucination, and correct refusal.
