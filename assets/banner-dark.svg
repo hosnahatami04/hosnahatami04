@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Hosna Hatami, AI engineer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1C1930"/><stop offset="1" stop-color="#2B2741"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#g)"/>
+<line x1="860" y1="70" x2="930" y2="40" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="930" y1="40" x2="1010" y2="85" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1010" y1="85" x2="1090" y2="55" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1090" y1="55" x2="1150" y2="110" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="860" y1="70" x2="900" y2="150" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="900" y1="150" x2="985" y2="175" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="985" y1="175" x2="1010" y2="85" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="985" y1="175" x2="1065" y2="150" stroke="#B9B0E0" stroke-width="2.5"/>
+<line x1="1065" y1="150" x2="1090" y2="55" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1065" y1="150" x2="1135" y2="200" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1135" y1="200" x2="1150" y2="110" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="900" y1="150" x2="880" y2="240" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="880" y1="240" x2="960" y2="255" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="960" y1="255" x2="985" y2="175" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="960" y1="255" x2="1045" y2="235" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1045" y1="235" x2="1065" y2="150" stroke="#B9B0E0" stroke-width="2.5"/>
+<line x1="1045" y1="235" x2="1120" y2="270" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1120" y1="270" x2="1135" y2="200" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1150" y1="110" x2="1180" y2="165" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1135" y1="200" x2="1180" y2="165" stroke="#4A4466" stroke-width="1.5"/>
+<line x1="1010" y1="85" x2="1065" y2="150" stroke="#4A4466" stroke-width="1.5"/>
+<circle cx="860" cy="70" r="6" fill="#8C82BE"/>
+<circle cx="930" cy="40" r="6" fill="#8C82BE"/>
+<circle cx="1010" cy="85" r="6" fill="#8C82BE"/>
+<circle cx="1090" cy="55" r="6" fill="#8C82BE"/>
+<circle cx="1150" cy="110" r="6" fill="#8C82BE"/>
+<circle cx="900" cy="150" r="6" fill="#8C82BE"/>
+<circle cx="985" cy="175" r="9" fill="#B9B0E0"/>
+<circle cx="1065" cy="150" r="9" fill="#B9B0E0"/>
+<circle cx="1135" cy="200" r="6" fill="#8C82BE"/>
+<circle cx="880" cy="240" r="6" fill="#8C82BE"/>
+<circle cx="960" cy="255" r="6" fill="#8C82BE"/>
+<circle cx="1045" cy="235" r="9" fill="#B9B0E0"/>
+<circle cx="1120" cy="270" r="6" fill="#8C82BE"/>
+<circle cx="1180" cy="165" r="6" fill="#8C82BE"/>
+<text x="64" y="128" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">Hosna Hatami</text>
+<text x="66" y="176" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" fill="#CFC8EE">AI engineer · LLM, retrieval and ML systems</text>
+<text x="66" y="210" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" fill="#CFC8EE">and the evaluation that shows when they fail</text>
+<text x="66" y="256" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" letter-spacing="1.5" fill="#9E97BD">LLM · RAG · AGENTS · MLOPS · COMPUTER VISION</text>
+</svg>
