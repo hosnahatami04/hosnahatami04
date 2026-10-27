@@ -4,8 +4,8 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hosna-hatami"><img src="https://img.shields.io/badge/LinkedIn-hosna--hatami-5D5294?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:hosnahatami04@gmail.com"><img src="https://img.shields.io/badge/Email-hosnahatami04%40gmail.com-2B2741?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- <a href="https://www.linkedin.com/in/hosna-hatami"><img src="https://img.shields.io/badge/LinkedIn-hosna--hatami-5D5294?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hosnahatami04@gmail.com"><img src="https://img.shields.io/badge/Email-hosnahatami04%40gmail.com-2B2741?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> -->
   <img src="https://img.shields.io/badge/Open%20to-remote%20roles%20%26%20freelance%20projects-8C82BE?style=flat-square" alt="Open to remote roles and freelance projects">
 </p>
 
@@ -85,4 +85,4 @@ Python · PyTorch · Transformers · scikit-learn · FastAPI · Docker · GitHub
 ---
 
 **Open to remote AI/ML roles and freelance projects.**
-[hosnahatami04@gmail.com](mailto:hosnahatami04@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hosna-hatami)
+<!-- [hosnahatami04@gmail.com](mailto:hosnahatami04@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hosna-hatami)-->
