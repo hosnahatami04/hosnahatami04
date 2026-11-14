@@ -64,6 +64,7 @@ Pass, reject or manual-review decisions for metal castings, set from the cost of
 
 | Project | What it does | Result |
 |---|---|---|
+| [support-ticket-intelligence](https://github.com/hosnahatami04/support-ticket-intelligence) | Ticket routing that hands off to a person when it isn't confident, with conformal prediction sets | Auto-routed tickets are wrong 3.3% of the time, but only 7.7% clear the bar, far short of the 60% target |
 | [ecommerce-recommender](https://github.com/hosnahatami04/ecommerce-recommender) | Popularity, ALS and a two-stage reranker on 2.7M real events | Only the two-stage model beats the popularity baseline on every headline metric |
 | [multimodal-image-search](https://github.com/hosnahatami04/multimodal-image-search) | CLIP text-to-image search and BLIP visual QA, on CPU | Recall@10 of 0.569 on Flickr8k, with failures broken down by category |
 | [crypto-volatility-forecasting](https://github.com/hosnahatami04/crypto-volatility-forecasting) | GARCH vs LSTM vs hybrid for next-24h volatility, walk-forward | GARCH beat both deep models on QLIKE; its edge over a 7-day mean was not significant |
@@ -76,7 +77,7 @@ Pass, reject or manual-review decisions for metal castings, set from the cost of
 
 **Failure is part of the spec.** Hard negatives, unanswerable questions, injected faults, drift-free control streams. A system that is never wrong has not been tested.
 
-**Shipped, not just trained.** Pinned dependencies, a pytest suite, GitHub Actions CI and a Dockerfile in every repo. Decisions that aren't obvious are written down as ADRs.
+**Shipped, not just trained.** Pinned dependencies, a pytest suite, GitHub Actions CI and a Dockerfile in every repo. In the larger projects, decisions that aren't obvious are written down as ADRs.
 
 ## Stack
 
