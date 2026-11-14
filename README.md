@@ -80,9 +80,9 @@ Pass, reject or manual-review decisions for metal castings, set from the cost of
 
 ## Stack
 
-Python · PyTorch · Transformers · scikit-learn · FastAPI · Docker · GitHub Actions · Ollama · PostgreSQL
+Python · PyTorch · Transformers · scikit-learn · FastAPI · Docker · GitHub Actions · Ollama
 
 ---
 
-**Open to remote AI/ML roles and freelance projects.**
+**Based in the UK. Available for remote AI/ML roles and freelance projects only.**
 <!-- [hosnahatami04@gmail.com](mailto:hosnahatami04@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hosna-hatami)-->
