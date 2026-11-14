@@ -80,7 +80,7 @@ Pass, reject or manual-review decisions for metal castings, set from the cost of
 
 ## Stack
 
-Python · PyTorch · Transformers · scikit-learn · FastAPI · Docker · GitHub Actions · Ollama
+Python · PyTorch · Transformers · scikit-learn · statsmodels · FastAPI · Docker · GitHub Actions · Ollama · Whisper
 
 ---
 
